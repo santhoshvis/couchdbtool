@@ -1,2 +1,2 @@
-# couchdbtool
-CouchDB performance measurement tool
+# NoSQLDB Performance Test Tool
+Includes CouchDB and MongoDB performance measurement tool
